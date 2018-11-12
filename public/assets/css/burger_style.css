@@ -1,0 +1,46 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto|Titan+One);
+
+body {
+  background: tomato;
+  align-content: center;
+}
+
+h1 {
+font-family: 'Times New Roman', Times, serif;
+color: green;
+font-weight: bold;
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  }
+.menu {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 125%;
+  }
+.eaten {
+  font-weight: bold;
+  color: white;
+  background: yellow;
+  }
+li {
+  padding: 5px;
+  margin: 5px;
+  background: lightblue;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: tomato;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
